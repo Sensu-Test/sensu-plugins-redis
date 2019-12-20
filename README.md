@@ -4,6 +4,7 @@
 [![Code Climate](https://codeclimate.com/github/sensu-plugins/sensu-plugins-redis/badges/gpa.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-redis)
 [![Test Coverage](https://codeclimate.com/github/sensu-plugins/sensu-plugins-redis/badges/coverage.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-redis)
 [![Dependency Status](https://gemnasium.com/sensu-plugins/sensu-plugins-redis.svg)](https://gemnasium.com/sensu-plugins/sensu-plugins-redis)
+
 ## TEST SECTION
 
 ## Sensu Plugins Redis Plugin
