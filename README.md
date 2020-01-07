@@ -6,6 +6,7 @@
 [![Dependency Status](https://gemnasium.com/sensu-plugins/sensu-plugins-redis.svg)](https://gemnasium.com/sensu-plugins/sensu-plugins-redis)
 
 ## TEST SECTION
+let's pretend this is fun
 
 ## Sensu Plugins Redis Plugin
 
